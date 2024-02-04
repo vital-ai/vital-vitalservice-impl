@@ -1,5 +1,7 @@
 package ai.vital.lucene.command
 
+import groovy.cli.picocli.CliBuilder
+
 import java.util.List;
 import ai.vital.vitalservice.VitalStatus
 import ai.vital.vitalservice.command.AbstractCommand;

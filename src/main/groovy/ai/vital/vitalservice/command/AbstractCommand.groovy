@@ -1,5 +1,6 @@
 package ai.vital.vitalservice.command
 
+import groovy.cli.picocli.CliBuilder
 import org.apache.commons.io.FileUtils;
 
 import ai.vital.vitalservice.BaseDowngradeUpgradeOptions

@@ -1,5 +1,7 @@
 package ai.vital.indexdb.command
 
+import groovy.cli.picocli.CliBuilder
+
 import java.util.Map;
 import java.util.Map.Entry
 
